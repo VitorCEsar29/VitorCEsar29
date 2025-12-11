@@ -1,16 +1,52 @@
-## Hi there 👋
+# Vitor – Game Dev 🕹️
 
-<!--
-**VitorCEsar29/VitorCEsar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o **Vitor**
 
-Here are some ideas to get you started:
+Atualmente curso **Jogos Digitais** e sou apaixonado por motores de jogo e ferramentas que otimizam o desenvolvimento de projetos interativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+## Contatos 🧾
+
+- **Email:** ateixeiraramon9@gmail.com  
+- **GitHub:** [VitorCEsar29](https://github.com/VitorCEsar29)  
+- **Instagram:** [@vitor_cdasilva](https://www.instagram.com/vitor_cdasilva)
+- **Discord:** **vitu00**
+
+---
+
+## Sobre 🔍
+
+- Estudante de **Jogos Digitais (PUC Minas)**  
+- Interesses: **programação**, **ferramentas (tools)**, **física**, **mecânicas de gameplay** e **otimização**
+
+---
+
+## Principais Competências 🖊️
+
+- **Blender** — Modelagem Low Poly e criação de personagens  
+- **Unity** — Animação, Input System, Gameplay, Física, Otimização  
+- **C#** — Desenvolvimento de ferramentas e sistemas de animação  
+- **GitHub** — Versionamento e Workflows de automação
+
+---
+
+## Projetos em Destaque 📽️
+
+### Cai Entre Nozes — Plataforma 3D (Unity / C#)  
+Acompanhe a esquilinha Donattela em uma aventura através das quatro estações do ano, superando obstáculos e resolvendo puzzles enquanto coleta nozes para garantir um inverno tranquilo.
+
+🔗 Repositório: [Cai Entre Nozes](https://github.com/JVitoor/TI4-CaiEntreNozes)
+
+---
+
+## Atualmente Estou Focando em 🔧
+
+- Desenvolver diversas **tools** e ferramentas de auxílio para o fluxo de produção  
+- Aprimorar minhas habilidades em modelagem **High Poly**  
+- Criar sistemas de automação usando **GitHub Actions** e recursos avançados da **Unity**
