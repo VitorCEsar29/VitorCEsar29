@@ -18,7 +18,7 @@ Atualmente curso **Jogos Digitais** e sou apaixonado por motores de jogo e ferra
 
 ## Contatos 🧾
 
-- **Email:** [vitordevgame@gmail.com](https://mail.google.com/mail/u/1/#inbox) 
+- **Email:** [vitordevgame@gmail.com](vitordevgame@gmail.com) 
 - **GitHub:** [VitorCEsar29](https://github.com/VitorCEsar29)  
 - **Instagram:** [@vitor_cdasilva](https://www.instagram.com/vitor_cdasilva)
 - **Discord:** **vitu00**
