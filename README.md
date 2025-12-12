@@ -9,6 +9,11 @@ Atualmente curso **Jogos Digitais** e sou apaixonado por motores de jogo e ferra
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vitor-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Vitor-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+  <img align="center" alt="Vitor-Godot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+  <img align="center" alt="Vitor-Blender" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+  <img align="center" alt="Vitor-Blender" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
 </div>
 
 ## Contatos 🧾
