@@ -46,6 +46,8 @@ Atualmente curso **Jogos Digitais** e sou apaixonado por motores de jogo e ferra
 ### Cai Entre Nozes — *Plataforma  3D* (Unity / C#)  
 Acompanhe a esquilinha Donattela em uma aventura através das quatro estações do ano, superando obstáculos e resolvendo puzzles enquanto coleta nozes para garantir um inverno tranquilo.
 
+Itch.io: [Cai Entre Nozes](https://kochillo.itch.io/cai-entre-nozes)
+
 Repositório: `https://github.com/JVitoor/TI4-CaiEntreNozes`
 
 ### FightMare — *Boss Fight* (Unity / C#)  
