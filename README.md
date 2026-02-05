@@ -43,10 +43,17 @@ Atualmente curso **Jogos Digitais** e sou apaixonado por motores de jogo e ferra
 
 ## Projetos em Destaque 📽️
 
-### Cai Entre Nozes — Plataforma 3D (Unity / C#)  
+### Cai Entre Nozes — *Plataforma  3D* (Unity / C#)  
 Acompanhe a esquilinha Donattela em uma aventura através das quatro estações do ano, superando obstáculos e resolvendo puzzles enquanto coleta nozes para garantir um inverno tranquilo.
 
-🔗 Repositório: [Cai Entre Nozes](https://github.com/JVitoor/TI4-CaiEntreNozes)
+Repositório: `https://github.com/JVitoor/TI4-CaiEntreNozes`
+
+### FightMare — *Boss Fight* (Unity / C#)  
+Derrote seu pior pesadelo quando sua imaginação ganha vida.
+
+Itch.io: [FightMare](https://lugu.itch.io/fightmare)
+
+Repositório: `https://github.com/LuguGMD/JamPucOnline2025-2`
 
 ---
 
