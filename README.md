@@ -28,7 +28,8 @@ Atualmente curso **Jogos Digitais** e sou apaixonado por motores de jogo e ferra
 ## Sobre 🔍
 
 - Estudante de **Jogos Digitais (PUC Minas)**  
-- Interesses: **programação**, **ferramentas (tools)**, **física**, **mecânicas de gameplay** e **otimização**
+- Interesses: **programação**, **desenvolvimento de ferramentas (tools)**, **física de jogos**, **mecânicas de gameplay** e **otimização de performance**
+- Foco em criar soluções que facilitam o desenvolvimento e melhoram a produtividade da equipe
 
 ---
 
@@ -53,14 +54,21 @@ Repositório: `https://github.com/JVitoor/TI4-CaiEntreNozes`
 ### FightMare — *Boss Fight* (Unity / C#)  
 Derrote seu pior pesadelo quando sua imaginação ganha vida.
 
-Itch.io: [FightMare](https://lugu.itch.io/fightmare)
+**Itch.io:** [FightMare](https://lugu.itch.io/fightmare)  
+**Repositório:** [GitHub](https://github.com/LuguGMD/JamPucOnline2025-2)
 
-Repositório: `https://github.com/LuguGMD/JamPucOnline2025-2`
+---
+
+### Unity Tools — *Editor Tools & Utilities* (Unity / C#)  
+Coleção de ferramentas customizadas para Unity que otimizam o fluxo de desenvolvimento, incluindo sistemas de automação, editores personalizados e utilitários para acelerar a produção de jogos.
+
+**Repositório:** [Unity Tools](https://github.com/VitorCEsar29/VitaoTools)
 
 ---
 
 ## Atualmente Estou Focando em 🔧
 
 - Desenvolver diversas **tools** e ferramentas de auxílio para o fluxo de produção  
-- Aprimorar minhas habilidades em modelagem **High Poly**  
+- Aprimorar minhas habilidades em modelagem **High Poly** e **texturização**  
 - Criar sistemas de automação usando **GitHub Actions** e recursos avançados da **Unity**
+- Expandir meu conhecimento em **otimização de performance** e **profiling**
